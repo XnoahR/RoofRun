@@ -8,7 +8,7 @@ https://raychix.itch.io/roof-run
 
 
 Gameplay
- <p align ="center">  <img width = "440" height "248" src = "https://github.com/XnoahR/RoofRun/blob/main/image/Jump.png" </p>
+ <p align ="center">  <img width = "720" height "480" src = "https://github.com/XnoahR/RoofRun/blob/main/image/Jump.png" </p>
 
 
 ![Gameplay](https://github.com/XnoahR/RoofRun/blob/main/image/Untitled.gif)
